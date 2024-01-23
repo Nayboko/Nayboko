@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nayboko (Nay for the intimate ones)
-- 👀 I’m interested in Mathematics, 3D, Game Engines, Animations, Modeling, Deep Learning
-- 🌱 I’m currently learning a lot of different stuffs (Engine Architecture, Web CMS, Shaders computing)
-- 💞️ I’m looking to collaborate on Game or 3D project as Graphic/Engine/Software Engineer
+- 👀 Interested in Mathematics, 2D/3D, Rendering Engines, Animations, Modeling, Deep Learning
+- 🌱 Currently learning a lot of different stuffs (Engine Architecture, Web API, Shaders computing)
+- 💞️ I’m looking to collaborate on Game or 3D project as Dev
+- 👩‍💻 Working at Sopra Steria Group as Software Engineer
 - 📫 How to reach me: contact@nayboko.fr
 
 <!---
