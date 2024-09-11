@@ -3,4 +3,4 @@
 - 🌱 Currently learning a lot of different stuffs (Engine Architecture, Web API, Shaders computing, DevOps)
 - 💞️ I’m looking to collaborate on Game, 2D/3D project as Dev
 - 👩‍💻 Working at Sopra Steria Group as Confirmed Software Engineer
-- 📫 How to reach me: contact@nayboko.fr
+- 📫 How to reach me: github@nayboko.fr
